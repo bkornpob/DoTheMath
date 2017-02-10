@@ -7,8 +7,7 @@ This is apart of Spring 2017 project at OUGDA under the theme "flash game."
 Project is still under development.
 Note: resolution 800x600 shows no problem, but 1920x1080 has an issue with the equation at the bottom of the screen.
 
-DoTheMath.unitypackage was built with Unity 5.4.2f2, Windows.
-DoTheMath_v2.unitypackage was built with Unity 5.4.2f2, Windows.
+Unity 5.4.2f2, Windows.
 
 DoTheMath_Mac.zip is for MacOS.
 
