@@ -9,3 +9,7 @@ Developed under Unity 5.4.2f2, Windows.
 DoTheMath_Mac.zip is for MacOS.
 
 DoTheMath_Windows.zip is for Windows.
+
+DoTheMath_v1.0.0.unitypackage is for only assets.
+
+DoTheMath.zip is the whole probject folder.
